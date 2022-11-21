@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.PostItem {
+  margin: 20px;
+  padding: 10px;
+  border: rgb(62, 123, 255) 2px solid;
+}
+
+.TodoItem {
+  margin: 20px;
+  padding: 10px;
+  border: pink 2px solid;
+}
+
+.UserItem {
+  margin: 20px;
+  padding: 10px;
+  border: teal 2px solid;
+}
+
+.title {
+  text-align: center;
+  margin: 20px 0;
+}
